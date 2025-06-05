@@ -1,6 +1,6 @@
 ## Olá, me chamo Gabriela 👋
 
-Atualmente sou uma estudante de T.I com foco em desenvolvimento Mobile, Web e UX/UI Design. No meu tempo livre gosto de jogar video game e amo bordar! 
+Atualmente sou uma estudante de T.I com foco em desenvolvimento Mobile, Web e UX/UI Design. No meu tempo livre gosto de jogar video game e amo bordar! 🎮🪡
 
 Ferramentas e Tecnologias:
 
